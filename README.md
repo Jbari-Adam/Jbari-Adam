@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Adam! 👋
 
-<!--
-**Jbari-Adam/Jbari-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old developer specializing in React and Node.js. 
+I turn coffee into components and bugs into "undocumented features." ☕✨
 
-Here are some ideas to get you started:
+### 🕵️ Investigation Log:
+- 🔭 **Current Case:** Building SkyData(weather-App)
+- ⚡ **Fun Fact:** I write code that works... sometimes.
+- 🐞 **Special Ability:** Finding the missing semicolon after 3 hours of searching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, Express, Laravel
+- **The Essentials:** Stack Overflow, Google, and determination.
+
+### 🎮 When I'm Not Coding:
+You can find me in **Mobile Legends** or simulating orbital mechanics in **Juno: New Origins**. 🚀
+
+---
+
+### 📊 GitHub Stats
+![Adam's GitHub stats](https://vercel.app)
